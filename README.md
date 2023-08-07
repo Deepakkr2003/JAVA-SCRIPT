@@ -1,3 +1,3 @@
 # JAVA-SCRIPT
 
-Learing java script fro youtube
+Learning java script from youtube
